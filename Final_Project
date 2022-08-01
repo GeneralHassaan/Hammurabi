@@ -1,0 +1,11 @@
+PROJECT:
+Machine Learning Project
+AUTHOR:
+Hassaan Asif
+BUSINESS PROBLEM :
+Trying to find the best model that predicts sales in a retail setting
+DATA :
+/content/sales_predictions.csv
+METHODS :
+First, we made a linear regression model and then evaluated the performances of the model using r^2 and RMSE.
+Then, we built a regression tree model and used the same metrics to compare the performance. 

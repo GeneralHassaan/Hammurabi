@@ -9,3 +9,4 @@ DATA :
 METHODS :
 First, we made a linear regression model and then evaluated the performances of the model using r^2 and RMSE.
 Then, we built a regression tree model and used the same metrics to compare the performance. 
+LINK: https://colab.research.google.com/github/GeneralHassaan/Hammurabi/blob/master/project_1.ipynb
